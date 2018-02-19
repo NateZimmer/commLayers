@@ -1,6 +1,6 @@
 {
   "name": "commLayers",
-  "version": "0.0.1-beta.99",
+  "version": "0.0.2",
   "description": "A BACnet protocol stack written in pure JavaScript.",
   "main": "index.js",
   "scripts": {
