@@ -1,6 +1,6 @@
 {
   "name": "commLayers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A BACnet protocol stack written in pure JavaScript.",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/NateZimmer/commLayers.git"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": {
     "name": "Fabio Huser",
     "email": "fabio@fh1.ch"
